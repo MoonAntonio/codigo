@@ -1,6 +1,7 @@
 # |CODIGOS|
 App for play codes.
 _______________________________
+[![Dev chat at https://moon-lpinchol.slack.com/](https://img.shields.io/badge/Slack-Online-brightgreen.svg?logo=data:slack/png)](https://moon-lpinchol.slack.com/)[![Dev todo at https://trello.com/b/RN7HQjjv/proyect-codigos](https://img.shields.io/badge/Trello-Open-blue.svg?logo=data:trello/png)](https://trello.com/b/RN7HQjjv/proyect-codigos)
 
 ### Features
 
