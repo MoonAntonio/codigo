@@ -4,9 +4,11 @@ _______________________________
 
 ### Features
 
-> Play code.
-> Learn otherwise
-> Different languages
+>Play code.
+
+>Learn otherwise
+
+>Different languages
 
 
 ### Request
@@ -17,17 +19,22 @@ _______________________________
 > **VisualStudio 2015** or **Monodevelop**
 >> [VisualStudio Link][2]
 
+### Optional 
+
+> Trello
+>> To see Trello as in the image, you must install some add-ons chrome. [Add-ons][6]
+
 
 ### Tracing
 
 > **Wiki**
 >> [Wiki Link][3]
 >
-> **Trello[^1]**
->> [Trello Link][4]trello
+> **Trello**
+>> [Trello Link][4]
 >
 > **Calendar**
->> [][5]
+>> [Calendar Link][5]
 
 ![TP](/Resources/PreviewTrello.png)
 
@@ -41,7 +48,6 @@ _______________________________
 
 ____________________________________
 
-[^1]: To see Trello as in the image, you must install some add-ons chrome. [Add-ons][6]
 
 [1]: https://unity3d.com "Unity3D Link"
 [2]: https://www.visualstudio.com "Visual Studio 2015"
