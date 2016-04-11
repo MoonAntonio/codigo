@@ -1,12 +1,15 @@
 # |CODIGOS|
 App for play codes.
 _______________________________
+[![Dev chat at https://moon-lpinchol.slack.com/](https://img.shields.io/badge/Slack-Online-brightgreen.svg?logo=data:slack/png)](https://moon-lpinchol.slack.com/)[![Dev todo at https://trello.com/b/RN7HQjjv/proyect-codigos](https://img.shields.io/badge/Trello-Open-blue.svg?logo=data:trello/png)](https://trello.com/b/RN7HQjjv/proyect-codigos)
 
 ### Features
 
-> Play code.
-> Learn otherwise
-> Different languages
+>Play code.
+
+>Learn otherwise
+
+>Different languages
 
 
 ### Request
@@ -17,17 +20,22 @@ _______________________________
 > **VisualStudio 2015** or **Monodevelop**
 >> [VisualStudio Link][2]
 
+### Optional 
+
+> Trello
+>> To see Trello as in the image, you must install some add-ons chrome. [Add-ons][6]
+
 
 ### Tracing
 
 > **Wiki**
 >> [Wiki Link][3]
 >
-> **Trello[^1]**
->> [Trello Link][4]trello
+> **Trello**
+>> [Trello Link][4]
 >
 > **Calendar**
->> [][5]
+>> [Calendar Link][5]
 
 ![TP](/Resources/PreviewTrello.png)
 
@@ -41,7 +49,6 @@ _______________________________
 
 ____________________________________
 
-[^1]: To see Trello as in the image, you must install some add-ons chrome. [Add-ons][6]
 
 [1]: https://unity3d.com "Unity3D Link"
 [2]: https://www.visualstudio.com "Visual Studio 2015"
