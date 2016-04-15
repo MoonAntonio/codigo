@@ -6,4 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Codigo/Scene/Main.unity
+    path: Assets/Codigo/Scene/Intro.unity
+  - enabled: 1
+    path: Assets/Codigo/Scene/Menu.unity
+  - enabled: 1
+    path: Assets/Codigo/Scene/Game.unity
