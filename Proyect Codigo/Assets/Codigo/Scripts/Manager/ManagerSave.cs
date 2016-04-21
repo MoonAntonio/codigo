@@ -31,6 +31,10 @@ public class ManagerSave : MonoBehaviour
     /// <para>(Global)Date Bugs number.</para>
     /// </summary>
     public static int _intBug;                              // (Global)Date Bugs number
+    /// <summary>
+    /// <para>Volume general</para>
+    /// </summary>
+    public static int _volG = 5;                            // Volume general
     #endregion
 
     #region Var Public
@@ -38,6 +42,8 @@ public class ManagerSave : MonoBehaviour
     public int intCopiler;
     [Range(0.0f, 999.9f)]
     public int intBug;
+    [Range(0,5)]
+    public int volG;
     #endregion
 
     #region Methods Run
@@ -48,6 +54,7 @@ public class ManagerSave : MonoBehaviour
     {
         intCopiler = _intCopiler;
         intBug = _intBug;
+        volG = _volG;
     }
     #endregion
 }
