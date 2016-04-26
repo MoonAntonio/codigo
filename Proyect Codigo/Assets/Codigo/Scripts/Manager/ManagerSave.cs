@@ -22,7 +22,7 @@ public class ManagerSave : MonoBehaviour
     /// <summary>
     /// <para>Version Proyect.  (Format:"0.0.6a")</para>
     /// </summary>
-    public const string _version = "0.0.6a";                // Version Proyect (Format:"0.0.6a")
+    public const string _version = "0.0.10a";                // Version Proyect (Format:"0.0.6a")
     /// <summary>
     /// <para>(Global)Date Copilers number.</para>
     /// </summary>
